@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kergs
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning phyton
+- 🌱 I’m a django backend developer 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me cchisomfrancis@gmail.com
 
