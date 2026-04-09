@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kergs
 - 👀 I’m interested in coding
-- 🌱 I’m a django backend developer 
+- 🌱 Django & Python backend developer, REST APIs, AWS deployment 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me cchisomfrancis@gmail.com
 
